@@ -15,6 +15,6 @@ A Deep Leaning project using Computer Vision and Transfer-Leaning
   * https://miro.medium.com/v2/resize:fit:828/format:webp/1*TS6wCKBstPwWIfUpL_6-gw.png
 
 
-#Paper-Used
+# Paper-Used
 Food-101 https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/static/bossard_eccv14_food-101.pdf
  
