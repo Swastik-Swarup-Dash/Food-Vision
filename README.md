@@ -13,6 +13,8 @@ A Deep Leaning project using Computer Vision and Transfer-Leaning
    the network, with the stem layer being the initial part of the network that performs initial convolutions to process the 
    input image before deeper layers.
   * https://miro.medium.com/v2/resize:fit:828/format:webp/1*TS6wCKBstPwWIfUpL_6-gw.png
+  * ![image](https://github.com/Swastik-Swarup-Dash/Food-Vision/assets/143310346/4b986b6e-2397-4668-9abd-31440aaa8bf3)
+
 
 
 # Paper-Used
