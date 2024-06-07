@@ -8,8 +8,7 @@ A Deep Leaning project using Computer Vision and Transfer-Leaning
  * Finding our model's most wrong predictions
  * Making predictions with our Food Vision model on custom images of food
 
-
-#Used-Pretrained-Model
+# Pre-Trained Model
    EfficientNet’s layers are based on a compound scaling method that uniformly scales the depth, width, and resolution of 
    the network, with the stem layer being the initial part of the network that performs initial convolutions to process the 
    input image before deeper layers.
